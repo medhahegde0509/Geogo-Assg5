@@ -14,7 +14,7 @@ import MoreVertIcon from '@material-ui/icons/MoreVert'
 import CommentIcon from '@material-ui/icons/Comment'
 
 
-import avatarImage from './media/postAvatar.jpg'
+import avatarImage from 'postAvatar.jpg'
 
 const useStyles = makeStyles({
 	media: {
